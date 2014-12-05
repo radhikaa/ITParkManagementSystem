@@ -4,6 +4,6 @@ class StaticPagesController < ActionController::Base
   protect_from_forgery with: :exception
 
   def index
-    @welcomeMsg = "Hello World"
+    @welcomeMsg = "Welcome to Ascendas!"
   end
 end

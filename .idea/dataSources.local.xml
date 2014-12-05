@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails ITParkManagementSystem: development" uuid="b9461d29-7cab-43f5-a2f9-9be828f55dce">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails ITParkManagementSystem: test" uuid="d4cfbe00-6562-4277-abd1-7233079b41a1">
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>

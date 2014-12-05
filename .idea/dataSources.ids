@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails ITParkManagementSystem: development" uuid="b9461d29-7cab-43f5-a2f9-9be828f55dce">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails ITParkManagementSystem: test" uuid="d4cfbe00-6562-4277-abd1-7233079b41a1">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
